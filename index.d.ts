@@ -1,1 +1,2 @@
-export declare function savePixels (array : any, type : string, options?: any) : any;
+declare function savePixels (array : any, type : string, options?: any) : any;
+export = savePixels;
