@@ -4,9 +4,12 @@
   "homepage": "https://github.com/mikolalysenko/save-pixels",
   "version": "",
   "devDependencies": {
-    "blue-tape": "registry:npm/blue-tape#0.1.0+20160322235613"
+    "blue-tape": "registry:npm/blue-tape#0.2.0+20160418015423",
+    "zeros": "github:dpmorrow/typed-zeros#2a044c0"
   },
   "ambientDevDependencies": {
     "node": "registry:dt/node#4.0.0+20160319033040"
+  },
+  "dependencies": {
   }
 }
